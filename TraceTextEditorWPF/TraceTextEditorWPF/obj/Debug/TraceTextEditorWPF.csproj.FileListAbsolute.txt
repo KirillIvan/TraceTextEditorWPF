@@ -1,0 +1,17 @@
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\bin\Debug\TraceTextEditorWPF.exe.config
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\bin\Debug\TraceTextEditorWPF.exe
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\bin\Debug\TraceTextEditorWPF.pdb
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\obj\Debug\TraceTextEditorWPF.csprojAssemblyReference.cache
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\obj\Debug\MainWindow.g.cs
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\obj\Debug\App.g.cs
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\obj\Debug\TraceTextEditorWPF_MarkupCompile.cache
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\obj\Debug\TraceTextEditorWPF_MarkupCompile.lref
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\obj\Debug\MainWindow.baml
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\obj\Debug\TraceTextEditorWPF.g.resources
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\obj\Debug\TraceTextEditorWPF.Properties.Resources.resources
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\obj\Debug\TraceTextEditorWPF.csproj.GenerateResource.cache
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\obj\Debug\TraceTextEditorWPF.csproj.CoreCompileInputs.cache
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\obj\Debug\TraceTextEditorWPF.exe
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\obj\Debug\TraceTextEditorWPF.pdb
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\obj\Debug\Activate.g.cs
+D:\ПапкаДляТехникума\ПрактикаWPF\TraceTextEditorWPF.git\TraceTextEditorWPF\TraceTextEditorWPF\obj\Debug\Activate.baml
